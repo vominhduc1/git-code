@@ -1,0 +1,22 @@
+{
+  "name": "git-code",
+  "version": "1.0.0",
+  "description": "This is example about git-code",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vominhduc1/git-code.git"
+  },
+  "author": "VoDuc",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vominhduc1/git-code/issues"
+  },
+  "homepage": "https://github.com/vominhduc1/git-code#readme",
+  "devDependencies": {
+    "lite-server": "^2.6.1"
+  }
+}
